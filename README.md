@@ -1,0 +1,1 @@
+An experiment to figure out the best possible prompt for a given output image. Very WIP.
